@@ -141,7 +141,7 @@ The project was developed as an introduction to **multi-agent systems, autonomou
 
 ## Authors
 
-* **M003T
+* **M003T**
 * **Skydax-IT**
 * **Tyriaax**
 
