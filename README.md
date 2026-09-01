@@ -4,8 +4,6 @@ A **3D autonomous drone simulation** built with **SARL**, **Microsoft AirSim** a
 
 The project implements a **multi-agent system (MAS)** in which autonomous drone agents interact with a simulated 3D environment through AirSim.
 
-Developed at **UTBM (Université de Technologie de Belfort-Montbéliard)** as part of the **IA51 – Multi-Agent Systems** course.
-
 ## Overview
 
 The objective of this project was to explore the use of **agent-oriented programming** for autonomous systems.
